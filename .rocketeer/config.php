@@ -42,7 +42,7 @@ return [
         'production' => [
             'host'      => 'kenyancomedy.com',
             'username'  => 'dcheruiyot',
-            'password'  => 'Sept@911',
+            'password'  => '',
             'key'       => '/Users/danielcheruiyot/.ssh/id_rsa',
             'keyphrase' => '',
             'agent'     => '',
