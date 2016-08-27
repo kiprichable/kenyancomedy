@@ -1,0 +1,13 @@
+20160825035300
+20160825035537
+$ git clone "https://dcheruiyot%40css.edu:Sept%40911@github.com/kiprichable/kenyancomedy.git" "/home/dcheruiyot/kenyancomedy/releases/20160827174316" --branch="master" --depth="1"
+git clone "https://dcheruiyot%40css.edu:Sept%40911@github.com/kiprichable/kenyancomedy.git" "/home/dcheruiyot/kenyancomedy/releases/20160827174316" --branch="master" --depth="1"
+Initialized empty Git repository in /home/dcheruiyot/kenyancomedy/releases/20160827174316/.git/
+which: no bundle in (/usr/local/bin:/bin:/usr/bin)
+which: no composer in (/usr/local/bin:/bin:/usr/bin)
+which: no composer.phar in (/home/dcheruiyot/kenyancomedy/releases/20160827174316)
+$ cd /home/dcheruiyot/kenyancomedy/releases/20160827174316
+$ composer install --no-interaction --no-dev --prefer-dist
+cd /home/dcheruiyot/kenyancomedy/releases/20160827174316
+composer install --no-interaction --no-dev --prefer-dist
+bash: composer: command not found
