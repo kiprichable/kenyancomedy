@@ -1,18 +1,8 @@
-20160825033848
-20160825034019
-$ git clone "https://dcheruiyot%40css.edu:Sept%40911@github.com/kiprichable/kenyancomedy.git" "/home/dcheruiyot/kenyancomedy/kenyancomedy/releases/20160825034729" --branch="master" --depth="1"
-git clone "https://dcheruiyot%40css.edu:Sept%40911@github.com/kiprichable/kenyancomedy.git" "/home/dcheruiyot/kenyancomedy/kenyancomedy/releases/20160825034729" --branch="master" --depth="1"
-Initialized empty Git repository in /home/dcheruiyot/kenyancomedy/kenyancomedy/releases/20160825034729/.git/
-$ cd /home/dcheruiyot/kenyancomedy/kenyancomedy/releases/20160825034729
-$ git submodule update --init --recursive
-cd /home/dcheruiyot/kenyancomedy/kenyancomedy/releases/20160825034729
-git submodule update --init --recursive
-
-which: no bundle in (/usr/local/bin:/bin:/usr/bin)
-which: no composer in (/usr/local/bin:/bin:/usr/bin)
-which: no composer.phar in (/home/dcheruiyot/kenyancomedy/kenyancomedy/releases/20160825034729)
-$ cd /home/dcheruiyot/kenyancomedy/kenyancomedy/releases/20160825034729
-$ composer install --no-interaction --no-dev --prefer-dist
-cd /home/dcheruiyot/kenyancomedy/kenyancomedy/releases/20160825034729
-composer install --no-interaction --no-dev --prefer-dist
-bash: composer: command not found
+20160825035300
+20160825035537
+$ cd /home/dcheruiyot/kenyancomedy/releases/20160825035537
+$ git rev-parse HEAD
+cd /home/dcheruiyot/kenyancomedy/releases/20160825035537
+git rev-parse HEAD
+fb498c33f4f6af1cd1da99d80b48fa8b19ec4aed
+The current release is <info>20160825035537</info> (<comment>fb498c33f4f6af1cd1da99d80b48fa8b19ec4aed</comment> deployed at <comment>2016-08-25 03:55:37</comment>)
